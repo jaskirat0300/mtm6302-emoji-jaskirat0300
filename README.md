@@ -1,4 +1,4 @@
-# mtm6302-emoji-your-github-jaskirat0300
+# mtm6302-emoji-jaskirat0300
 
 ## Jaskirat Singh
 
