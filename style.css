@@ -1,0 +1,46 @@
+
+html, body, h1, article, span {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f7f7;
+    text-align: center;
+    padding: 20px;
+  }
+  
+ 
+  .title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 10px;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+  }
+  
+  
+  .item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 2.5rem;
+    text-align: center;
+  }
+  
+  .code {
+    margin-top: 10px;
+    font-size: 0.8rem;
+    color: #333;
+  }
+  
